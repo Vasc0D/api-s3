@@ -7,7 +7,7 @@ provider:
   # Default memory size for functions (default: 256MB)
   memorySize: 256
   iam:
-    role: arn:aws:iam::447891120606:role/LabRole
+    role: arn:aws:iam::640749915930:role/LabRole
 
 functions:
   lista_buckets:
